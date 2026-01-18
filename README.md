@@ -75,17 +75,17 @@ Tenure
 - 36 months: 7% churn rate
 - Recommendation: "First Year Success Program" for new customers
 
-Payment Method 💳
+Payment Method 
 - Electronic check: 45% churn rate
 - Bank transfer: 9% churn rate
 - Recommendation: Simplify electronic check process, promote auto-pay
 
-Service Bundle 📦
+Service Bundle 
 - Fiber optic only: 42% churn rate
 - Fiber + Premium services: 15% churn rate
 - Recommendation: Bundle services to increase stickiness
 
-Monthly Charges 💰
+Monthly Charges 
 - $70: 38% churn rate
 - <$70: 18% churn rate
 - Recommendation: Tiered pricing with mid-range options
