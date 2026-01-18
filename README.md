@@ -29,7 +29,8 @@ Customer churn costs businesses billions annually. This project delivers:
 - Calculated charge-to-tenure ratio
 - Added interaction terms between service types
 
-- Models Compared
+Models Compared
+
 Model	               Accuracy	   Precision	   Recall	   ROC-AUC	      Best For
 XGBoost	             85.2%	     0.83	         0.79	     0.87	          Best overall performance
 Random Forest	       82.1%	     0.80	         0.75	     0.84	          Feature importance analysis
