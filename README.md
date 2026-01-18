@@ -107,16 +107,16 @@ Real-time Dashboard
 Northbridge Predictive Insightss
 A group of mathematics and data science students building practical ML solutions for businesses.
 
-Skills Demonstrated:
--Data Science: XGBoost, Feature Engineering, Model Evaluation
--Business Acumen: ROI Analysis, Retention Strategy, KPI Tracking
--Engineering: Production Pipelines, API Development, Deployment
+Skills Demonstrated:  
+-Data Science: XGBoost, Feature Engineering, Model Evaluation  
+-Business Acumen: ROI Analysis, Retention Strategy, KPI Tracking  
+-Engineering: Production Pipelines, API Development, Deployment  
 
 
 
 
 
-Contact
+# Contact
 For Business Inquiries:
 We offer free proof-of-concept churn analysis for qualified companies.
 Email: your.email@example.com
