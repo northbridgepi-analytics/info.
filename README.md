@@ -42,22 +42,21 @@ Customer churn costs businesses billions annually. This project delivers:
 - Optimal XGBoost Configuration
 model = XGBClassifier(
 
-    n_estimators=300,
-  
+    n_estimators=300,  
     learning_rate=0.01,  
-    max_depth=4,
-    subsample=0.8,
-    colsample_bytree=0.8,
-    scale_pos_weight=3,  # Handles class imbalance
-    early_stopping_rounds=20,
-    eval_metric='logloss'
+    max_depth=4,  
+    subsample=0.8,  
+    colsample_bytree=0.8,  
+    scale_pos_weight=3,  # Handles class imbalance  
+    early_stopping_rounds=20,  
+    eval_metric='logloss'  
 
 )
 
 Key Advantages:
 
--Handles class imbalance
--Feature importance reveals business insights
--Fast prediction suitable for real-time applications
--Robust to overfitting with regularization parameters
+-Handles class imbalance  
+-Feature importance reveals business insights  
+-Fast prediction suitable for real-time applications  
+-Robust to overfitting with regularization parameters  
 
