@@ -1,7 +1,5 @@
-# churn-prediction
+# Readme
 End-to-end ML implementation featuring data preprocessing, predictive modeling with XGBoost, model evaluation, and business recommendations for reducing customer attrition.
-
-# Customer Retention Analytics --_
 
 # -Executive Summary:
 A production-ready machine learning system that predicts customer churn with 85% accuracy using XGBoost. Built by a student data science collective to help subscription businesses reduce attrition and increase lifetime value.
