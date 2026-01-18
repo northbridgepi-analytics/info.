@@ -1,12 +1,12 @@
 # Readme
 End-to-end ML implementation featuring data preprocessing, predictive modeling with XGBoost, model evaluation, and business recommendations for reducing customer attrition.
 
-# -Executive Summary:
+# Executive Summary:
 A production-ready machine learning system that predicts customer churn with 85% accuracy using XGBoost. Built by a student data science collective to help subscription businesses reduce attrition and increase lifetime value.
 
 Business Impact: Potential to reduce churn by 25-35% through targeted interventions.
 
-# -Problem Statement:
+# Problem Statement:
 "For subscription-based companies, a 5% reduction in churn can increase profits by 25-95%." - Bain & Company
 
 Customer churn costs businesses billions annually. This project delivers:
@@ -17,7 +17,7 @@ Customer churn costs businesses billions annually. This project delivers:
 
 => Actionable retention strategies based on ML insights
 
-# -Technical Implementation:
+# Technical Implementation:
 
 1. Data Cleaning
 - Handled missing values in TotalCharges (2.1% of data)
