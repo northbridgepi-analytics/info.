@@ -44,8 +44,7 @@ model = XGBClassifier(
 
     n_estimators=300,
   
-    learning_rate=0.01,
-  
+    learning_rate=0.01,  
     max_depth=4,
     subsample=0.8,
     colsample_bytree=0.8,
