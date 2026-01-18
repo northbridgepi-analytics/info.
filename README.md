@@ -50,8 +50,7 @@ model = XGBClassifier(
     scale_pos_weight=3,  # Handles class imbalance  
     early_stopping_rounds=20,  
     eval_metric='logloss'  
-
-)
+    )
 
 Key Advantages:
 
