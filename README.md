@@ -59,3 +59,49 @@ Key Advantages:
 -Fast prediction suitable for real-time applications  
 -Robust to overfitting with regularization parameters  
 
+# Business Insights & Recommendations
+
+##Top 5 Churn Drivers Identified
+Contract Type
+
+Month-to-month: 43% churn rate
+
+One-year: 11% churn rate
+
+Two-year: 3% churn rate
+
+Recommendation: Incentivize annual contracts with 10% discount
+
+Tenure 📅
+
+<12 months: 41% churn rate
+
+12-36 months: 18% churn rate
+
+36 months: 7% churn rate
+
+Recommendation: "First Year Success Program" for new customers
+
+Payment Method 💳
+
+Electronic check: 45% churn rate
+
+Bank transfer: 9% churn rate
+
+Recommendation: Simplify electronic check process, promote auto-pay
+
+Service Bundle 📦
+
+Fiber optic only: 42% churn rate
+
+Fiber + Premium services: 15% churn rate
+
+Recommendation: Bundle services to increase stickiness
+
+Monthly Charges 💰
+
+$70: 38% churn rate
+
+<$70: 18% churn rate
+
+Recommendation: Tiered pricing with mid-range options
