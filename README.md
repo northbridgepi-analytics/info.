@@ -119,7 +119,7 @@ Skills Demonstrated:
 # Contact
 For Business Inquiries:
 We offer free proof-of-concept churn analysis for qualified companies.
-Email: your.email@example.com
+Email: northbridge.pi@gmail.com
 GitHub: github.com/yourusername
 LinkedIn: linkedin.com/in/yourprofile
 
